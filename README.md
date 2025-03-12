@@ -16,9 +16,24 @@
 </p>
 
 ## Tecnologias e ferramentas
-<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<p>
+   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />     
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+   &#8287;&#8287;&#8287;&#8287;&#8287;  
+   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+   &#8287;&#8287;&#8287;&#8287;&#8287;     
+</p>
           
-&#8287;&#8287;&#8287;&#8287;&#8287;
+
 
 
 <!--
