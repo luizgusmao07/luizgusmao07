@@ -35,8 +35,8 @@
           
 <div>
    <a href="https://github.com/luizgusmao07">
-   <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=luizgusmao07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgusmao07&hide_progress=true&layout=compact&theme=tokyonight"/>
+   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=luizgusmao07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgusmao07&hide_progress=true&layout=compact&theme=tokyonight"/>
 </div>
 
 **Sobre mim**
@@ -46,4 +46,3 @@
 - 👯 Espero colaborar com projetos open source
 - 💬 Caso tenha alguma pergunta ou sugestão, me contate
 
-  ![Snake animation](https://github.com/luizgusmao07/luizgusmao07/blob/output/github-contribution-grid-snake.svg)
