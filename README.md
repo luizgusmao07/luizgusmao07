@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<img width="100%" alt="Image" src="https://github.com/user-attachments/assets/0ab8a7ac-6579-49cb-b4d6-a27a9da6b64d" />
+![Image](https://github.com/user-attachments/assets/d55e4107-efcb-40b2-9a5e-c99f9d640567)
 <!--
 **luizgusmao07/luizgusmao07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
