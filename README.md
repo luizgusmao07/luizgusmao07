@@ -33,7 +33,7 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;     
 </p>
           
-<div>
+<div display="inline">
    <a href="https://github.com/luizgusmao07">
    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=luizgusmao07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgusmao07&hide_progress=true&layout=compact&theme=tokyonight"/>
