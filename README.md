@@ -1,6 +1,8 @@
 
 <img width="100%" height="auto" alt="Banner" src="https://github.com/luizgusmao07/luizgusmao07/blob/0bad0f97f555c17f59099e84b380c9e092633b86/Luiz%20Gusm%C3%A3o%20(8).png" />
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/luiz-guilherme-t-284716273/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/user-attachments/assets/15309bbc-bd1a-4694-b07e-8bef8963d7f4"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -36,17 +38,7 @@
 <div style="width: 100vw; display: flex">
 
 ### 📊 Estatísticas
-<a href="https://github.com/luizgusmao07/github-readme-stats">
-    <img 
-    align="left"
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=luizgusmao07&show_icons=true&theme=tokyonight" >
-</a>
-
-<img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgusmao07&layout=compact&theme=tokyonight">
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizgusmao07&theme=tokyonight)](https://github.com/luizgusmao07/github-readme-stats)
 
 
 **Sobre mim**
